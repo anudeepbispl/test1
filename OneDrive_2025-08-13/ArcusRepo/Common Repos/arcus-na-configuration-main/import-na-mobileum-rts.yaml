@@ -1,0 +1,12 @@
+# each squad may have imports and exports
+import:
+  # exports are grouped by proprietor
+  na:
+    # proprietors are grouped by source
+    mobileum:
+      # sources are grouped by stream
+      rts:
+        # each stream contains necessary and optional configuration
+        tool: scp
+        # cron schedule in CET is 6:15 AM
+        schedule: "15 6 * * *"

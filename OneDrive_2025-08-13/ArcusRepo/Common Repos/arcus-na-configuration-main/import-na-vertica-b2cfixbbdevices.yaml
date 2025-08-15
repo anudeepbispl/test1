@@ -1,0 +1,10 @@
+# each squad may have imports and exports
+import:
+  # exports are grouped by proprietor
+  na:
+    # proprietors are grouped by source
+    vertica:
+      # sources are grouped by stream
+      b2cfixbbdevices:
+        # each stream contains necessary and optional configuration
+        tool: sftp

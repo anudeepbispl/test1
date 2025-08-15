@@ -1,0 +1,7 @@
+environment: test
+gateway:
+  host: "dl920gateway05.ddc.teliasonera.net"
+datahub:
+  enabled: false
+  env: TEST
+  url: https://datahub-gms.test.teliacompany.net:443

@@ -1,0 +1,7 @@
+environment: dev
+gateway:
+  host: "dl910gateway05.ddc.teliasonera.net"
+datahub:
+  enabled: false
+  env: DEV
+  url: https://datahub-gms.test.teliacompany.net:443
