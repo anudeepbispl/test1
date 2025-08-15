@@ -1,0 +1,6 @@
+squad: na
+serviceAccount: r02236
+serviceAccountDN: "CN=Robot\\, arcus-sys-na (r02236),OU=RobotAccounts,OU=TS,OU=Hosting,DC=tcad,DC=telia,DC=se"
+
+registry:
+  host: "cdl-docker.jfrog.teliacompany.io"
